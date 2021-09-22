@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 My name is hiba salem I am a full-Stack JavaScript developer who is really interested and passionate about software development and always willing to learn more .
