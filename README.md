@@ -1,10 +1,7 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-My name is hiba salem I am a full-Stack JavaScript developer who is really interested and passionate about software development and always willing to learn more .
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hibasalem&label=Profile%20views&color=0e75b6&style=flat" alt="hibasalem" /> </p> 
-
+Full-Stack JavaScript developer who is interested in and passionate about software development.
+I am very curious and motivated by new challenges, and always looking to learn new things to expand my skill set and knowledge.
 
 <h3 align="left">Connect me:</h3>
 <p align="left">
@@ -32,15 +29,7 @@ My name is hiba salem I am a full-Stack JavaScript developer who is really inter
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-  
-
-
+ 
 ## <h3 align="left">GitHub Stats</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hibasalem&label=Profile%20views&color=0e75b6&style=flat" alt="hibasalem" /> </p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hibasalem&" alt="hibasalem" /></p>
-
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=hibasalem&count_private=true&include_all_commits=true&show_icons=true" />
-<a />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hibasalem&layout=compact&card_width=495)
