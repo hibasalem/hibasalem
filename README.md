@@ -28,8 +28,4 @@ I am very curious and motivated by new challenges, and always looking to learn n
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
- 
-## <h3 align="left">GitHub Stats</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hibasalem&label=Profile%20views&color=0e75b6&style=flat" alt="hibasalem" /> </p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hibasalem&" alt="hibasalem" /></p>
